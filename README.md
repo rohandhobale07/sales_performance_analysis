@@ -1,23 +1,23 @@
                              📊📈 Sales Performance Analysis Dashboard 📊📈
 
-An interactive Tableau dashboard created using the Global Superstore dataset to analyze sales performance across different regions, products, and sales representatives.
-This project includes data visualization, geographical analysis, revenue trends, and return order analysis.
+This project focuses on analyzing sales performance data using Tableau to generate meaningful business insights through interactive visualizations and dashboards. The analysis includes regional sales trends, salesperson performance, returned orders, and geographical sales distribution.
 
-🔧 Tools Used:
+🛠️ Tools Used:
 - Tableau Public
 - Global Superstore Dataset
-- Data Visualization
+- Data Visualization & Analysis
   
-📌 Features:
+✨ Features:
 - Region-wise Sales Analysis
-- Sales Representative Performance Tracking
-- Revenue Trend Visualization
+- Salesperson Performance Visualization
+- Revenue Trend Analysis
 - Returned Orders Analysis
-- Geographic Mapping using Hierarchies
-- Interactive Charts and Tables
+- Geographic Hierarchy Mapping
+- Interactive Dashboards & Charts
   
-📈 Insights:
-- Identify top-performing sales representatives
-- Analyze sales trends across regions and years
-- Track returned orders and return proportions
-- Compare product revenue across geographic locations
+📊 Key Insights:
+- Identified top-performing sales representatives.
+- Analyzed revenue contribution across regions.
+- Tracked yearly sales trends and growth.
+- Measured returned order proportions.
+- Visualized sales distribution geographically
